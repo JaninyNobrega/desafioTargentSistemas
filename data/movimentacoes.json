@@ -1,0 +1,16 @@
+[
+  {
+    "id": "bf78f12d-ee52-452f-ba3f-1758ac586b19",
+    "codigoProduto": 101,
+    "descricaoMovimentacao": "Entrada de mercadoria",
+    "quantidade": 50,
+    "dataHora": "2025-11-27T15:45:02.033323"
+  },
+  {
+    "id": "5217fef3-d3cb-4f08-a1d1-c4678fd136d3",
+    "codigoProduto": 101,
+    "descricaoMovimentacao": "Venda pedido #123",
+    "quantidade": -10,
+    "dataHora": "2025-11-27T15:45:14.382046"
+  }
+]

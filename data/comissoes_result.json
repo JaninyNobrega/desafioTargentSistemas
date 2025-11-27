@@ -1,0 +1,162 @@
+{
+  "comissoes": {
+    "João Silva": 495.69,
+    "Maria Souza": 465.96,
+    "Carlos Oliveira": 379.38,
+    "Ana Lima": 404.99
+  },
+  "detalhes": {
+    "João Silva": [
+      {
+        "valor": 1200.5,
+        "comissao": 60.03
+      },
+      {
+        "valor": 950.75,
+        "comissao": 47.54
+      },
+      {
+        "valor": 1800.0,
+        "comissao": 90.0
+      },
+      {
+        "valor": 1400.3,
+        "comissao": 70.02
+      },
+      {
+        "valor": 1100.9,
+        "comissao": 55.05
+      },
+      {
+        "valor": 1550.0,
+        "comissao": 77.5
+      },
+      {
+        "valor": 1700.8,
+        "comissao": 85.04
+      },
+      {
+        "valor": 250.3,
+        "comissao": 2.5
+      },
+      {
+        "valor": 480.75,
+        "comissao": 4.81
+      },
+      {
+        "valor": 320.4,
+        "comissao": 3.2
+      }
+    ],
+    "Maria Souza": [
+      {
+        "valor": 2100.4,
+        "comissao": 105.02
+      },
+      {
+        "valor": 1350.6,
+        "comissao": 67.53
+      },
+      {
+        "valor": 950.2,
+        "comissao": 47.51
+      },
+      {
+        "valor": 1600.75,
+        "comissao": 80.04
+      },
+      {
+        "valor": 1750.0,
+        "comissao": 87.5
+      },
+      {
+        "valor": 1450.9,
+        "comissao": 72.55
+      },
+      {
+        "valor": 400.5,
+        "comissao": 4.01
+      },
+      {
+        "valor": 180.2,
+        "comissao": 1.8
+      },
+      {
+        "valor": 90.75,
+        "comissao": 0.0
+      }
+    ],
+    "Carlos Oliveira": [
+      {
+        "valor": 800.5,
+        "comissao": 40.03
+      },
+      {
+        "valor": 1200.0,
+        "comissao": 60.0
+      },
+      {
+        "valor": 1950.3,
+        "comissao": 97.52
+      },
+      {
+        "valor": 1750.8,
+        "comissao": 87.54
+      },
+      {
+        "valor": 1300.6,
+        "comissao": 65.03
+      },
+      {
+        "valor": 300.4,
+        "comissao": 3.0
+      },
+      {
+        "valor": 500.0,
+        "comissao": 25.0
+      },
+      {
+        "valor": 125.75,
+        "comissao": 1.26
+      }
+    ],
+    "Ana Lima": [
+      {
+        "valor": 1000.0,
+        "comissao": 50.0
+      },
+      {
+        "valor": 1100.5,
+        "comissao": 55.03
+      },
+      {
+        "valor": 1250.75,
+        "comissao": 62.54
+      },
+      {
+        "valor": 1400.2,
+        "comissao": 70.01
+      },
+      {
+        "valor": 1550.9,
+        "comissao": 77.55
+      },
+      {
+        "valor": 1650.0,
+        "comissao": 82.5
+      },
+      {
+        "valor": 75.3,
+        "comissao": 0.0
+      },
+      {
+        "valor": 420.9,
+        "comissao": 4.21
+      },
+      {
+        "valor": 315.4,
+        "comissao": 3.15
+      }
+    ]
+  }
+}
