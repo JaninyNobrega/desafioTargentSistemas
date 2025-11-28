@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Cálculo de Juros</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-100 text-gray-800">
+
+  <div class="max-w-xl mx-auto mt-16 bg-white p-10 rounded-2xl shadow-lg">
+    <h2 class="text-3xl font-bold mb-6 text-purple-600">Cálculo de Juros por Atraso</h2>
+
+```
+<form method="POST" class="space-y-5">
+
+  <div>
+    <label class="block font-semibold">Valor da dívida:</label>
+    <input type="text" name="valor"
+           class="w-full p-3 border rounded-lg focus:ring-2 focus:ring-purple-400">
+  </div>
+
+  <div>
+    <label class="block font-semibold">Data de Vencimento (YYYY-MM-DD):</label>
+    <input type="text" name="venc"
+           class="w-full p-3 border rounded-lg focus:ring-2 focus:ring-purple-400">
+  </div>
+
+  <button type="submit"
+          class="w-full py-3 bg-purple-500 text-white rounded-lg hover:bg-purple-600 font-medium text-lg">
+    Calcular
+  </button>
+
+</form>
+
+{% if msg %}
+  <p class="mt-6 text-purple-600 font-semibold">{{ msg }}</p>
+{% endif %}
+
+<a href="/" class="block mt-8 text-purple-600 hover:underline">← Voltar</a>
+```
+
+  </div>
+
+</body>
+</html>

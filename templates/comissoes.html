@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Comissões</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-100 text-gray-800">
+
+  <div class="max-w-xl mx-auto mt-16 bg-white p-10 rounded-2xl shadow-lg">
+    <h2 class="text-3xl font-bold mb-4 text-blue-600">Cálculo de Comissões</h2>
+
+```
+<p class="mb-6 text-gray-700">Clique no botão abaixo para calcular com base no arquivo <strong>vendas.json</strong>.</p>
+
+<a href="/calcular_comissoes"
+   class="px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white rounded-lg text-lg font-medium">
+   Executar cálculo
+</a>
+
+{% if msg %}
+  <p class="mt-6 text-green-600 font-semibold">{{ msg }}</p>
+{% endif %}
+
+<a href="/" class="block mt-8 text-blue-500 hover:underline">← Voltar</a>
+```
+
+  </div>
+
+</body>
+</html>
